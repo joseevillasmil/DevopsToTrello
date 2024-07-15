@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "joseevillasmil.TrelloDevops", "joseevillasmil.TrelloDevops\joseevillasmil.TrelloDevops.csproj", "{B307E754-F7CB-4AB7-B2C3-A9029699CD33}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "joseevillasmil.DevopsToTrello", "joseevillasmil.DevopsToTrello\joseevillasmil.DevopsToTrello.csproj", "{191B1C19-679F-4B29-8EBD-2AEE965B4347}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B307E754-F7CB-4AB7-B2C3-A9029699CD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B307E754-F7CB-4AB7-B2C3-A9029699CD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B307E754-F7CB-4AB7-B2C3-A9029699CD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B307E754-F7CB-4AB7-B2C3-A9029699CD33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{191B1C19-679F-4B29-8EBD-2AEE965B4347}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191B1C19-679F-4B29-8EBD-2AEE965B4347}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191B1C19-679F-4B29-8EBD-2AEE965B4347}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191B1C19-679F-4B29-8EBD-2AEE965B4347}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57946A41-228C-4BA2-B587-760F0C69C04C}
+	EndGlobalSection
+EndGlobal
